@@ -17,7 +17,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://nomadcoders.github.io/movie_app",
+  "homepage": "http://kotsuya.github.io/movie_app",
   "devDependencies": {
     "gh-pages": "^1.0.0"
   }
